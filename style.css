@@ -49,6 +49,9 @@ img{
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
+	background: url(images/bg.gif) no-repeat;
+	background-size: cover;
+	background-position: center;
 }
 
 ul{
